@@ -1,3 +1,5 @@
+The app provides drag and drop todo list and you can easily create new tasks, edit them and move to predefined columns. It has "ToDo", "In Progress", "In Review" and "Completed" columns. 
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
